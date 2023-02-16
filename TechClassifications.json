@@ -1,0 +1,501 @@
+﻿{
+	"parent": "null",
+	"name": "Root",
+	"Des": "",
+	"children": [{
+		"parent": "Root",
+		"name": "ELECTRICAL",
+		"Des": "",
+		"children": [{
+			"parent": "ELECTRICAL",
+			"name": "ADC & DAC",
+			"Des": "Analog-to-digital converters (ADC), taking an analog wave as an input and converting it to a digitally represented output form and digital-to- analog converters (DAC) performing the reverse, converting a digital representation into an analog form.\nIncluded are Flash (direct conversion), Pipeline, Delta-sigma and Successive approximation register (SAR) devices",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Amplifiers",
+			"Des": "Electronic devices which increase the voltage, current or power of a signal as employed in wireless communications, broadcasting and in audio equipment of all kinds. This class excludes operation amplifiers (op-amps) and integrated circuit amplifiers.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Audio transducers",
+			"Des": "Includes both input sensors which convert sound into an electrical signal (e.g. microphones) and output actuators that convert the electrical signals back into sound (e.g. loudspeakers).",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Cables",
+			"Des": "Core of metal wire offering good conductivity such as copper or aluminium, along with other material layers including insulation, tapes, screens, armouring for mechanical protection, and sheathing.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Capacitors",
+			"Des": "Passive two-terminal electrical components used to store energy electrostatically in an electric field.\nAlso includes super capacitors (SC) or ultra capacitors, which have a capacitance value much higher than other capacitors but with lower voltage limits. These bridge the gap between electrolytic capacitors and rechargeable batteries.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Connections",
+			"Des": "Electromechanical devices used to join electrical conductors and create an electrical circuit. Fuses are also included in this class.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Displays",
+			"Des": "Display devices for the transitory presentation of images, text or video transmitted electronically.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Inductors",
+			"Des": "Passive electrical components which oppose sudden changes in current, also known as coils or chokes, used for choking, blocking, attenuating, or filtering high frequency noise in electrical circuits, storing and transferring energy in power converters, creating tuned oscillators and Impedance matching.\nAlso included are transformers made of two or more inductors.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Lighting",
+			"Des": "Devices that produce visible light from electric power.\nIncludes incandescent, halogen, fluorescent, LED and carbon arc devices.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Motors",
+			"Des": "Devices which convert electricity into mechanical energy using the principles of electromagnetism.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "PCBs",
+			"Des": "Electronic circuits used in devices to provide mechanical support and a pathway for electronic components, generally constructed by combining different sheets of non-conductive material, such as fibreglass, plastic or other types of material, onto which the copper connecting circuitry is attached.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Resistors",
+			"Des": "Components employed within a circuit specifically designed to restrict the flow of electric current when a potential difference is manifest across it. Included are all forms of resistors and associated technologies together with their manufacture.",
+			"children": []
+		}, {
+			"parent": "ELECTRICAL",
+			"name": "Switches",
+			"Des": "Devices used to interrupt the flow of electrons in a circuit. This class also includes relays.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "ENERGY",
+		"Des": "",
+		"children": [{
+			"parent": "ENERGY",
+			"name": "Batteries",
+			"Des": "Energy sources consisting of one or more electrochemical cells, which transform their chemical energy into electrical energy.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Fuel cells",
+			"Des": "Devices which create electricity by creating a chemical reaction between a fuel and an oxidant. Fuels include hydrogen, methane, propane, methanol, diesel fuel or gasoline.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Gas turbines",
+			"Des": "Internal-combustion engines consisting of an air compressor, combustion chamber, and turbine wheel that is turned by the expanding products of combustion.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Hydroelectric",
+			"Des": "Technologies harnessing of the kinetic energy of flowing water where turbines and generators convert this energy into electricity.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Nuclear",
+			"Des": "Technologies used to create electricity using nuclear fission to split atoms to release this nuclear energy.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Photovoltaics",
+			"Des": "Materials and devices manufactured from semiconductors which convert sunlight into electrical energy. Includes photodiodes photo detectors and light sensors.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Piston engines",
+			"Des": "Engines constructed from one or more cylinders, in which close fitting pistons can move up and down and deriving their power from the burning of a compressed air-fuel mixture in each of the cylinders in succession.",
+			"children": []
+		}, {
+			"parent": "ENERGY",
+			"name": "Wind turbines",
+			"Des": "Power generating devices that are driven by the kinetic energy of the wind. Includes Horizontal axis wind turbines (HAWTs) and Vertical axis wind turbines (VAWTs).",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "INFORMATION",
+		"Des": "",
+		"children": [{
+			"parent": "INFORMATION",
+			"name": "3D printing",
+			"Des": "Additive processes for 3D printed objects.\nIncludes Sintering (the process of fusing particles) and DMLS (Direct Metal Laser Sintering) and SLM (Selective Laser Melting).",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "AR & VR",
+			"Des": "Computer-generated simulations in which a person can interact within an artificial three-dimensional environment or Virtual reality (VR) using electronic devices, such as special goggles with a screen or gloves fitted with sensors.\nIncluded are enhanced real world environments or Augmented Reality (AR), with graphical overlays and which do not create a fully immersive experience.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Blockchain",
+			"Des": "Shared, immutable ledgers facilitating the process of recording transactions and tracking assets in a business network.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "eCommerce",
+			"Des": "Buying and selling of goods or services using the internet and the transfer of money and data to execute these transactions.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Engineering software",
+			"Des": "Purpose-built computer code to design and document a product.\nThis class includes electronic design automation (EDA, ECAD) for semiconductor design, Logic simulation, In circuit emulation (ICE), Software compilers and Computational fluid dynamics (CFD).",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Gaming",
+			"Des": "Games played on computers and laptops, handheld devices, game consoles, phones and tablets. Also includes gaming controllers, card, board, gambling games and all toys.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Image processing",
+			"Des": "Method and operations performed on a visual image, by enhancing the image or distilling information from it.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Machine learning",
+			"Des": "The use of data and algorithms to imitate the way that humans learn, by gradually improving its accuracy.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Printing",
+			"Des": "Apparatus and processes to transfer text and images onto a paper or other similar mediums by utilising dedicated hardware devices.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Scanning",
+			"Des": "Optical processes performed by dedicated hardware to capture images, printed text, handwriting or an object as a digital facsimile of the original.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Security",
+			"Des": "Processes for safeguarding and defending computers, servers, mobile devices, electronic systems, networks and data.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Social media",
+			"Des": "Computer-based technology that facilitates the sharing of ideas, thoughts, and information through the building of virtual networks and communities.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Speech recognition",
+			"Des": "Systems and methods which enable a program to process human speech into a written format or machine commands.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Storage",
+			"Des": "Magnetic, optical or mechanical media that records and preserves digital information for ongoing or future operations. This class includes both local and remote storage locations.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "Streaming",
+			"Des": "Processes for delivering media content in a continuous transfer of compressed data over the Internet for immediate display.",
+			"children": []
+		}, {
+			"parent": "INFORMATION",
+			"name": "UI",
+			"Des": "User interfaces (UI), where a human user interacts with a computer, website or application.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "LIFE SCIENCES",
+		"Des": "",
+		"children": [{
+			"parent": "LIFE SCIENCES",
+			"name": "Absorbent materials",
+			"Des": "Materials or a mixture of materials which are insoluble in nature and are used to absorb liquids by soaking up and hold them within the material.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Biological assays",
+			"Des": "Includes a wide range of assays important in biological sciences such as polymerase chain reaction (PCR), enzyme-linked immunosorbent assay (ELISA), western blot, among others. No specific applications or use cases are excluded.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Cleaning",
+			"Des": "Removal of foreign matter from objects and materials.\nThis class includes all technologies relevant to cleaning processes.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Cosmetics",
+			"Des": "Substances or mixtures intended to be placed in contact with the various external parts of the human body with the intention to clean, perfume or change appearance, alter body odours, protect them or keep them in good condition.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Drug administration",
+			"Des": "Methods and devices for administering medicament, fluids, drugs or similar. These include syringes, infusion pumps and injection devices.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Food & drink",
+			"Des": "Proteins, carbohydrates, fats, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. Includes liquids that can be swallowed as refreshment or nourishment.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Immunogenics",
+			"Des": "Immunogenic compositions and regimens (e.g. vaccines and anti- inflammatory immunogenics).",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Industrial microbiology",
+			"Des": "Includes microorganisms (e.g. yeast or bacteria) for use in the production of compounds or materials, or other industrial purposes as well as associated inventions such as culture mediums.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Infection & disease therapy",
+			"Des": "Includes any solutions for treating, diagnosing or in other ways managing any type of infection or disease.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Molecular oncology",
+			"Des": "Treatment, diagnosis and therapies relating to cancer. Imaging based diagnosis (e.g. CT scan, X-ray) is not included.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Pest control",
+			"Des": "Pesticides and other crop/plant pest control products which prevents or treat infection of e.g. fungi, bacteria, nematode, viral or other types of infections on crops or plants. Includes both compositions as well as associated equipment.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Plant breeding",
+			"Des": "The purposeful manipulation of plant species in order to create desired genotypes and phenotypes for specific purposes. This manipulation involves either controlled pollination, genetic engineering, or both, followed by artificial selection of progeny.\nPlant breeding often, but not always, leads to plant domestication.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Stem cells",
+			"Des": "Technologies relating to undifferentiated or partially differentiated cells.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Surgical catheters",
+			"Des": "Thin tubes made from medical grade materials and serve a broad range of functions, which can be inserted in the body to treat diseases or perform surgical procedures. Includes cardiovascular, urological, gastrointestinal, neurovascular and ophthalmic applications.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Surgical implants",
+			"Des": "Implants and implantable devices, including implantable prosthetics, dental implants, implantable sensors, neurostimulators and implantable hearing aids, as well as other types of implants.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Surgical robotics",
+			"Des": "Types of surgical procedures that are performed using robotic systems to overcome the limitations of pre-existing minimally-invasive surgical procedures and to enhance the capabilities of surgeons performing open surgery.",
+			"children": []
+		}, {
+			"parent": "LIFE SCIENCES",
+			"name": "Tobacco",
+			"Des": "All technologies relating to the manufacture of products and processes in the tobacco industry, including reduced-risk tobacco products.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "MATERIALS",
+		"Des": "",
+		"children": [{
+			"parent": "MATERIALS",
+			"name": "Chemicals",
+			"Des": "Compounds of one or more pure substances. Includes artificial chemicals and acids but excludes gases which are covered by their own class.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Coatings",
+			"Des": "Mixtures of film-forming materials with pigments, solvents and other additives, which when applied to a surface and cured or dried, yields a thin film that is functional and often decorative.\nIncludes paints, platings, drying oils and varnishes, synthetic clear coatings, and other products whose primary function is to protect the surface of an object from the environment.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Fabrics",
+			"Des": "Materials made through weaving, knitting, spreading, felting, stitching, crocheting or bonding that may be used in the production of further products, such as clothing and upholstery.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Gases",
+			"Des": "Suspensions of matter that conform to the shape of a container in which they are held and acquire a uniform density within the container, even in the presence of gravity and regardless of the amount of substance in the container.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Glass",
+			"Des": "Materials made by fusing sand with soda and lime and cooling rapidly.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Insulation",
+			"Des": "Materials or substances used to insulate from either thermal or acoustic conduction. This class excludes pipes and electrical cables.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Liquid processing",
+			"Des": "Processes or processing of all liquids including gas, oil, beverages and water.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Packaging",
+			"Des": "Products made of any materials to be used for the containment, protection, handling, delivery and presentation of goods. This class includes luggage, baggage and suitcases.",
+			"children": []
+		}, {
+			"parent": "MATERIALS",
+			"name": "Polymers",
+			"Des": "Substances which have a molecular structure built up mostly or completely from a large number of similar units bonded together Includes many synthetic organic materials used as plastics and resins.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "SEMICONDUCTORS",
+		"Des": "",
+		"children": [{
+			"parent": "SEMICONDUCTORS",
+			"name": "Lithography",
+			"Des": "Processes to enable highly complex circuit patterns to be drawn onto large glass plate photo masks, including reduction processes using ultra-high-performance lenses to expose silicon substrate wafers.",
+			"children": []
+		}, {
+			"parent": "SEMICONDUCTORS",
+			"name": "Memory",
+			"Des": "Devices or systems used to store information for use in a computer or related computer hardware and digital electronic devices.",
+			"children": []
+		}, {
+			"parent": "SEMICONDUCTORS",
+			"name": "Processors",
+			"Des": "Logical circuits on a chip which respond and process basic instructions to drive a particular computer or computing function including fetching, decoding, executing, and writing back operations of an instruction.",
+			"children": []
+		}, {
+			"parent": "SEMICONDUCTORS",
+			"name": "Substrates",
+			"Des": "Solid, usually planar substance or wafer onto which a layer of another substance is applied and to which that second substance adheres.\nFabricated from silicon, silicon dioxide, aluminium oxide, sapphire, germanium, gallium arsenide (GaAs), silicon and germanium alloy or indium phosphide (InP) and serve as the foundation upon which\nelectronic devices such as transistors, diodes, and especially integrated circuits (ICs) are deposited.\nThis class also includes etching.",
+			"children": []
+		}, {
+			"parent": "SEMICONDUCTORS",
+			"name": "Transistors",
+			"Des": "Three-terminal semiconductor electronic devices used as switches\nor amplifiers. Also included are TFT transistor arrays (used in displays) and spin transistors.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "SENSORS & OPTICS",
+		"Des": "",
+		"children": [{
+			"parent": "SENSORS & OPTICS",
+			"name": "Biometric sensors",
+			"Des": "Sensors devised to collect measurable biological characteristics (biometric signals) from a human being, which can be used in conjunction with biometric recognition algorithms to perform automated person identification.\nIncludes gait, facial and iris recognition sensors.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Fluid sensors",
+			"Des": "Devices to monitor Liquids and gases. This class also includes flow meters.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Gaze sensors",
+			"Des": "Sensor technology that enables a computer or other device to detect where an individual is looking and may detect the presence, attention and focus of the user.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Image sensors",
+			"Des": "Electronic devices that convert optical images into electronic signals.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Infrared sensors",
+			"Des": "Electronic devices used to sense certain environmental characteristics by either emitting or detecting infrared radiation and also measuring the heat being emitted by an object and detecting motion.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Lasers",
+			"Des": "Devices that emit a beam of coherent light through an optical amplification process. Includes gas, fiber, solid state, dye, diode and excimer lasers.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Lenses",
+			"Des": "Structures of glass or other transparent material with curved sides or modified surfaces for concentrating or dispersing light rays.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Lidar",
+			"Des": "Optical technology used to sense the shape, motion and makeup of objects in the environment by pulsing laser signals using all light ranges (ultraviolet, visible, infrared) and amplifying the light that is scattered back through an optical telescope and photomultiplier tube.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Magnetic sensors",
+			"Des": "Sensors which detect the magnitude of magnetism and geomagnetism generated by the proximity of a magnet or current.\nThis class Includes magnetic field sensors, Hall effect sensors, magnetometers, magnetic position and distance sensors, magnetic proximity switches, magnetic force and torque sensors, magnetic flowmeters and current sensors.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Motion sensors",
+			"Des": "Devices that can detect physical movement on an object or within an environment. Includes passive infrared sensors (PIRs).",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Pressure sensors",
+			"Des": "Devices consisting of a pressure sensitive element to determine the actual pressure applied to the sensor together with components to convert this information into an output signal. This class includes piezoelectric pressure sensor devices such as accelerometers.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Projection",
+			"Des": "Devices, processes or apparatus which recreates an image onto a surface by directing rays of light.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Radar sensors",
+			"Des": "Sensors which convert microwave echo signals into electrical signals and interpreting the position, shape and motion characteristics of an object.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Radiographic sensors",
+			"Des": "Devices used to measure the flux, spatial distribution, spectrum, and/or other properties of X-rays.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Spectrometry sensors",
+			"Des": "Sensors used to measure light intensity in the ultraviolet (UV), visible (VIS), near-infrared (NIR) and infrared (IR) range of the electromagnetic spectrum.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Temperature sensors",
+			"Des": "Sensors which measure the amount of heat energy generated by an object or system, detecting any physical change to that temperature and producing either an analogue or digital output. Includes heat flow sensors.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Touch sensors",
+			"Des": "An element of a touch screen or other device which takes an input from the display screen and translates it into a suitable output action, layered on top of electronic visual displays and allow direct interaction with the information displayed. Includes capacitive touch sensors and resistive touch sensors but excludes piezoelectric sensors which are covered by their own class.",
+			"children": []
+		}, {
+			"parent": "SENSORS & OPTICS",
+			"name": "Ultrasound sensors",
+			"Des": "Sensors and devices operating at frequencies around 20 kHz, used to detect objects and measure distances with applications in ultrasound imaging or sonography for medicine and the non-destructive testing of products and structures to detect invisible flaws.\nIncludes Ultrasound Identification (USID), Real-Time Locating Systems (RTLS) and Indoor Positioning System (IPS) technology, used to automatically track and identify the location of objects in real time.",
+			"children": []
+		}]
+	}, {
+		"parent": "Root",
+		"name": "TELECOMMUNICATION",
+		"Des": "",
+		"children": [{
+			"parent": "TELECOMMUNICATION",
+			"name": "Antennae",
+			"Des": "Devices and apparatus made of conductive metal that send and/or receive electromagnetic radio waves.",
+			"children": []
+		}, {
+			"parent": "TELECOMMUNICATION",
+			"name": "Location & satellite",
+			"Des": "Technologies related to satellite communication, geocentric orbit type satellites, remote sensing satellites and global positioning satellite (GPSS) and terrestrial based location technologies.",
+			"children": []
+		}, {
+			"parent": "TELECOMMUNICATION",
+			"name": "Optical networks",
+			"Des": "Data communication networks built with optical fiber technology utilising optical fiber cables as the primary communication medium.",
+			"children": []
+		}, {
+			"parent": "TELECOMMUNICATION",
+			"name": "Wired networks",
+			"Des": "Networks employing physical copper or other metal cables to connect devices to other devices and networks.",
+			"children": []
+		}, {
+			"parent": "TELECOMMUNICATION",
+			"name": "Wireless networks",
+			"Des": "Networks employing radio systems to connect devices to other devices and networks.",
+			"children": []
+		}]
+	}]
+}
